@@ -4,7 +4,9 @@
 
 Membres de l'équipe (et répartition en % de l'évaluation, si nécessaire) :
 
-- TODO: à compléter
+- BLACHIER Mathéo
+- BERTAGNA Hugo
+- ROUHETTE Menehould
 
 ## Après la démo
 
